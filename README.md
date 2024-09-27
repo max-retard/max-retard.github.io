@@ -1,2 +1,2 @@
 # max-retard.github.io
-Personal Github Pages
+Personal Github Pages Repository
